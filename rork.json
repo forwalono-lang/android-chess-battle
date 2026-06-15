@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "Chess Battle",
+      "path": "android-chess-battle",
+      "framework": "kotlin"
+    }
+  ],
+  "$schema": "https://rork.com/schema/rork.json"
+}
